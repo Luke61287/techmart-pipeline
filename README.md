@@ -71,3 +71,5 @@ This project uses GitHub Actions for continuous integration:
 - `.github/workflows/lint.yml` - checks code style with ruff
 
 When a check fails, the pull request is blocked from merging.
+
+![Open Issues](https://img.shields.io/github/issues/Luke61287/day3-exercises)
